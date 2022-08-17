@@ -1,10 +1,11 @@
 body {
   margin: 0;
   padding: 0;
+  background-color: rgb(176,196,222);
 }
 
 #header {
-  background-color: rgb(200,200,255);
+  background-color: rgb(100,149,237);
 
 }
 
@@ -21,10 +22,11 @@ body {
   left: 0px;
 }
 
-#util {
+#util ul {
+  list-style: none;
   margin: 0 5px;
   padding: 5px;
-  background-color: rgb(220,220,255);
+  background-color: rgb(176,196,222);
 }
 
 #util ul a {
@@ -45,5 +47,5 @@ body {
   font-size: 8px;
   font-weight: bold;
   border-top: 1px solid #666;
-  background-color: rgb(220,220,250);
+
 }
