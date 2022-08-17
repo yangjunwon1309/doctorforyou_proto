@@ -1,11 +1,12 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: rgb(176,196,222);
+  background-color: rgb(100,149,237);
+
 }
 
 #header {
-  background-color: rgb(100,149,237);
+  background-color: rgb(176,196,222);
 
 }
 
@@ -26,7 +27,7 @@ body {
   list-style: none;
   margin: 0 5px;
   padding: 5px;
-  background-color: rgb(176,196,222);
+  background-color: rgb(100,149,237);
 }
 
 #util ul a {
@@ -47,5 +48,5 @@ body {
   font-size: 8px;
   font-weight: bold;
   border-top: 1px solid #666;
-
+  background-color: rgb(255,255,255);
 }
