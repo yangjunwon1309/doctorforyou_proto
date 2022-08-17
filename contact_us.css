@@ -31,6 +31,17 @@ body {
   color: black;
 }
 
+#button {
+  padding: 4px 2px;
+  position: absolute;
+  top: 4px;
+  left: 2px;
+  background-color: lightblue;
+  border: 2px solid #666;
+  color: black;
+
+}
+
 #version {
   margin-top: 4px;
   padding-bottom: 20px;
