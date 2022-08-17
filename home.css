@@ -4,12 +4,12 @@ body {
 }
 
 #header {
-  background-color: rgb(200,200,230);
+  background-color: rgb(200,200,255);
 
 }
 
 #front {
-  height: 70px;
+  height: 90px;
 }
 
 #front img {
@@ -18,16 +18,16 @@ body {
   max-height: 100%;
   position: absolute;
   top: 3px;
-  left: 5px;
+  left: 0px;
 }
 
 #util {
   margin: 0 5px;
   padding: 5px;
-  background-color: rgb(220,220,250);
+  background-color: rgb(220,220,255);
 }
 
-#util ul {
+#util ul a {
   margin: 2px 4px;
   padding: 6px 2px;
   color: black;
@@ -37,6 +37,7 @@ body {
   font-weight: bold;
   border: 2px solid #666;
   margin-bottom: -4px;
+  text-decoration: none;
 }
 
 #version {
@@ -44,4 +45,5 @@ body {
   font-size: 8px;
   font-weight: bold;
   border-top: 1px solid #666;
+  background-color: rgb(220,220,250);
 }
