@@ -11,7 +11,7 @@ body {
 }
 
 #front {
-  height: 0px;
+  height: 50px;
 }
 
 #front img {
@@ -20,7 +20,7 @@ body {
   max-height: 90%;
   position: absolute;
   top: 3px;
-  left: 0px;
+  left: 5px;
 }
 
 #util ul {
