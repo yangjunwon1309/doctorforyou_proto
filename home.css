@@ -32,7 +32,7 @@ body {
 
 #util ul a {
   margin: 2px 4px;
-  padding: 9px 2px;
+  padding: 10px 2px;
   color: black;
   background-color: white;
   display: block;
@@ -45,6 +45,7 @@ body {
 
 #version {
   margin-top: 4px;
+  padding-bottom: 20px;
   font-size: 8px;
   font-weight: bold;
   border-top: 1px solid #666;
