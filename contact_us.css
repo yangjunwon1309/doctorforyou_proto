@@ -11,7 +11,7 @@ body {
 }
 
 #front {
-  height: 50px;
+  height: 90px;
 }
 
 #front img {
@@ -20,7 +20,7 @@ body {
   max-height: 90%;
   position: absolute;
   top: 3px;
-  left: 5px;
+  left: 10px;
 }
 
 #util {
@@ -39,12 +39,12 @@ body {
   background-color: lightblue;
   border: 2px solid #666;
   color: black;
-
+  text-decoration: none;
 }
 
 #version {
-  margin-top: 4px;
-  padding-bottom: 20px;
+  margin-top: 200px;
+  padding-bottom: 40px;
   font-size: 8px;
   font-weight: bold;
   border-top: 1px solid #666;

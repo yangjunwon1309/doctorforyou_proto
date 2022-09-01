@@ -20,7 +20,7 @@ body {
   max-height: 90%;
   position: absolute;
   top: 3px;
-  left: 5px;
+  left: 10px;
 }
 
 #util ul {
@@ -44,8 +44,8 @@ body {
 }
 
 #version {
-  margin-top: 4px;
-  padding-bottom: 20px;
+  margin-top: 200px;
+  padding-bottom: 30px;
   font-size: 8px;
   font-weight: bold;
   border-top: 1px solid #666;
