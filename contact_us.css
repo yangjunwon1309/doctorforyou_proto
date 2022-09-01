@@ -34,10 +34,10 @@ body {
 #button {
   padding: 4px 2px;
   position: absolute;
-  top: 13px;
+  top: 40px;
   left: 2px;
-  background-color: lightblue;
-  border: 2px solid #666;
+  background-color: white;
+  border: 0px solid #666;
   color: black;
   text-decoration: none;
 }
